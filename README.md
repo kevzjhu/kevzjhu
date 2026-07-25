@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**kevzjhu/kevzjhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+I'm an **eHealth MSc graduate** from McMaster University with a background in healthcare project management, transitioning into **Data Analytics & Data Science**. 
 
-Here are some ideas to get you started:
+Having worked directly with legacy systems and large-scale Health IT implementations, I bridge between complex health data, software engineering, and actionable decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+#### 🪙 [Pennywise - Personal Finance & Analytics Platform](https://github.com/kevzjhu/pennywise)
+> *A full-stack web application built to automate personal budget tracking, financial goal modeling, and analytics*
+
+#### 🔎 [Patent Finder](https://github.com/kevzjhu/Patent-Finder)
+> *A data tool for searching, filtering, and extracting patent literature efficiently.*
+
+#### 🏃 My Fitness Dashboard (in the works!)
+> *Aiming to load my MiFitness data into BigQuery and create out a dashboard with 2 years of sleep, heart rate, workout, and steps data*
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/kevinhu77/)  
+[Email](mailto:kevzjhu@gmail.com)
