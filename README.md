@@ -3,7 +3,7 @@
 ### Who am I?
 I'm an **eHealth MSc graduate** from McMaster University with a background in healthcare project management, transitioning into **Data Analytics & Data Science**. 
 
-Having worked directly with legacy systems and large-scale Health IT implementations, I bridge between complex health data, software engineering, and actionable decision-making.
+Having worked directly with legacy systems and large-scale Health IT implementations, I bridge the gap between complex health data, software engineering, and actionable decision-making.
 
 ### 🔭 What I'm currently working on
 #### 🪙 [Pennywise - Personal Finance & Analytics Platform](https://github.com/kevzjhu/pennywise)
